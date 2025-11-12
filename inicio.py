@@ -1,0 +1,3 @@
+print("RESET TOTAL DO ZERO")
+print("EU SOU JÚNIOR PYTHON")
+print("REPO NOVO FUNCIONANDO")
